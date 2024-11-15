@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kerlooo/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kerlooo/Kerlooo/output/snake.svg" alt="Snake animation" />
 
 ###
