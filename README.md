@@ -35,6 +35,12 @@
   </a>
 </div>
 
+```lua
+OS        : Debian, Windows
+Languages : C++, Java, Python
+Editor    : Nano
+```
+
 ###
 
 <br clear="both">
