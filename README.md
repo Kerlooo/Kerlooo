@@ -33,7 +33,7 @@
 ```yaml
 OS        : Debian, Windows
 Languages : C++, Java, Python
-Editor    : Nano
+Editor    : vim
 ```
 ```yaml
 🏠 Desktop:
