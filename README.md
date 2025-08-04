@@ -31,7 +31,7 @@
 </div>
 
 ```yaml
-OS        : Debian, Windows
+OS        : Arch, Windows
 Languages : C++, Java, Python
 Editor    : vim
 ```
