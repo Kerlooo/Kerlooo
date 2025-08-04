@@ -30,12 +30,27 @@
   </a>
 </div>
 
-```lua
+```yaml
 OS        : Debian, Windows
 Languages : C++, Java, Python
 Editor    : Nano
 ```
+```yaml
+🏠 Desktop:
+OS        : Windows 11
+CPU       : AMD Ryzen 5 5600X
+GPU       : RTX 3070 8GB
+RAM       : 32GB DDR4
+Storage   : 1TB SSD NVMe
 
+💼 Laptop:
+Model     : ThinkPad X1 Carbon Gen 9
+Display   : 14" 4K UHD
+CPU       : Intel Core i7-1165G7
+RAM       : 32GB LPDDR4x
+Storage   : 1TB SSD NVMe 
+OS        : Arch Linux (Wayland) & Windows 11 (Dualboot)
+```
 ###
 
 <br clear="both">
