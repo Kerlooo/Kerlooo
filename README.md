@@ -49,7 +49,7 @@ Display   : 14" 4K UHD
 CPU       : Intel Core i7-1165G7
 RAM       : 32GB LPDDR4x
 Storage   : 1TB SSD NVMe 
-OS        : Arch Linux (Wayland) & Windows 11 (Dualboot)
+OS        : Arch Linux (Plasma 6 Wayland) & Windows 11 (Dualboot)
 ```
 ###
 
