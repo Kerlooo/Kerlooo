@@ -36,17 +36,19 @@
 
 <div align="left">
   
-```ini
-[Desktop_Station]
-OS      = Windows 11
-CPU     = AMD Ryzen 5 5600X
-GPU     = RTX 3070 8GB
-RAM     = 32GB DDR4
-Storage = 1TB SSD NVMe
+```yaml
+🏠 Desktop:
+OS        : Windows 11
+CPU       : AMD Ryzen 5 5600X
+GPU       : RTX 3070 8GB
+RAM       : 32GB DDR4
+Storage   : 1TB SSD NVMe
 
-[Mobile_Workstation]
-Model   = ThinkPad X1 Carbon Gen 9
-Display = 14" 4K UHD
-CPU     = Intel Core i7-1165G7
-RAM     = 32GB LPDDR4x
-OS      = Arch Linux (Plasma 6) & Win 11
+💼 Laptop:
+Model     : ThinkPad X1 Carbon Gen 9
+Display   : 14" 4K UHD
+CPU       : Intel Core i7-1165G7
+RAM       : 32GB LPDDR4x
+Storage   : 1TB SSD NVMe 
+OS        : Arch Linux (Plasma 6 Wayland) & Windows 11 (Dualboot)
+```
