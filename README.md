@@ -27,28 +27,29 @@
   <a href="https://www.youtube.com/@Kerlooo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=282828&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-
 </div>
-
 <br>
 
 <h3 align="left">💻 My Setup</h3>
-
 <div align="left">
   
-```yaml
-🏠 Desktop:
-OS        : Windows 11
-CPU       : AMD Ryzen 5 5600X
-GPU       : RTX 3070 8GB
-RAM       : 32GB DDR4
-Storage   : 1TB SSD NVMe
+  ```yaml
+  🏠 Desktop:
+  OS        : Windows 11
+  CPU       : AMD Ryzen 5 5600X
+  GPU       : RTX 3070 8GB
+  RAM       : 32GB DDR4
+  Storage   : 1TB SSD NVMe
+  
+  💼 Laptop:
+  Model     : ThinkPad X1 Carbon Gen 9
+  Display   : 14" 4K UHD
+  CPU       : Intel Core i7-1165G7
+  RAM       : 32GB LPDDR4x
+  Storage   : 1TB SSD NVMe 
+  OS        : Arch Linux (Plasma 6 Wayland) & Windows 11 (Dualboot)
+  ```
+</div>
 
-💼 Laptop:
-Model     : ThinkPad X1 Carbon Gen 9
-Display   : 14" 4K UHD
-CPU       : Intel Core i7-1165G7
-RAM       : 32GB LPDDR4x
-Storage   : 1TB SSD NVMe 
-OS        : Arch Linux (Plasma 6 Wayland) & Windows 11 (Dualboot)
-```
+<div align="center">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26076&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark">
