@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   </p>
 
-  <a href="https://www.youtube.com/@Kerlooo" target="_blank">
+  <a href="https://youtube.com/@kerlooo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=282828&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 </div>
